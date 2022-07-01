@@ -1,0 +1,16 @@
+.bg{
+    background-color: #060623;
+}
+
+.main-card:hover{
+    background-color: #FFCB3A;
+}
+
+.imageBox{
+    width: 100px;
+    height: 100px;
+}
+
+.avatar{
+    background-size: cover;
+}
